@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI;EACF,MAAM,EAAE,CAAC;;ACDX,UAAU;EACR,WAAW,EAAE,uBAAuB;;ACDtC,MAAM;EACJ,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,IAAI;EACX,kBAAkB,EAAE,sCAAsC;EAC1D,eAAe,EAAE,sCAAsC;EACvD,UAAU,EAAE,sCAAsC;;ACLpD,MAAM;EACJ,KAAK,ECCM,IAAI;EDAf,gBAAgB,ECDD,OAAO;EDEtB,UAAU,EAAE,iBAAsB;EAIlC,MAAM,EAAE,KAAK;;AEPf,OAAO;EACL,MAAM,EAAE,KAAK",
+"sources": ["../SASS/base/_base.sass","../SASS/modules/_typography.sass","../SASS/layouts/_header.sass","../SASS/layouts/_footer.sass","../SASS/_variables.sass","../SASS/layouts/_sections.sass"],
+"names": [],
+"file": "main.css"
+}
