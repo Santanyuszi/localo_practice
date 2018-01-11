@@ -18,18 +18,16 @@ nav.main-nav {
   margin-top: 20px; }
 
 .main-nav ul li {
-  border: 1px solid red;
   list-style: none;
   display: inline-block;
-  margin-left: 10px;
+  margin-left: 5px;
   padding: 5px 10px;
   font-size: 90%;
   font-weight: 600; }
 
 .main-nav ul li a {
-  border: 2px solid blue;
   text-decoration: none;
-  padding: 5px 15px;
+  padding: 5px 5px;
   color: #373737; }
 
 html, body {
