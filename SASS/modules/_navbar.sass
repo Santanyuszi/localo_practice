@@ -3,6 +3,33 @@ nav.main-nav
   // position: relative
   margin-top: -75px
 
+div.main-social
+  float: right
+  margin-top: -50px
+
+.down-arrow
+  width: 10px
+  height: 10px
+
+.main-social ul li
+  list-style: none
+  display: inline-block
+  margin-left: 10px
+
+.main-social ul li a
+  color: $secondary-grey
+  transition: color 0.2s
+
+.main-social ul li a:hover,
+.main-social ul li a:active
+  color: $main-orange
+
+i.fa
+  font-size: 115%
+
+.main-social ul li:last-child
+  margin-right: 12px
+
 .main-nav ul li
   list-style: none
   display: inline-block
@@ -15,3 +42,8 @@ nav.main-nav
   text-decoration: none
   padding: 5px 5px
   color: $secondary-grey
+  transition: color 0.2s
+
+.main-nav ul li a:hover,
+.main-nav ul li a:active
+    color: $main-orange
